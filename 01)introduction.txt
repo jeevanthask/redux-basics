@@ -1,0 +1,10 @@
+Action ------dispatch------> Store -------------------> Reducer
+                                   <-------------------
+
+Steps
+------
+
+01)Design the Store - decide what u want to keep in the store
+02)Define the actions
+03)Create one or more reducers = take an action and return the updated state
+04)set up the store
